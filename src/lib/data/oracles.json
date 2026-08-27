@@ -1,14 +1,34 @@
 {
-  "updatedAt": "2026-08-25T22:43:17.289Z",
+  "updatedAt": "2026-08-27T03:17:04.336Z",
   "source": {
     "channelId": "UCznImSIaxZR7fdLCICLdgaQ",
-    "videoCount": 878,
-    "oracleCount": 68,
+    "videoCount": 880,
+    "oracleCount": 69,
     "market": "Yahoo Finance daily chart"
   },
   "events": [
     {
       "id": 1,
+      "videoId": "NHDKwFtgWZM",
+      "title": "6년 만에 22억 모은 중소기업 김대리 이야기(ft.김동면 작가 1부)",
+      "description": "#투자 #투자전략 #부동산 #부동산투자 #미국주식 #미장 #테슬라 #엔비디아\n\n🚩『공시 6년 실패, 중소기업 김 대리는 어떻게 6년 만에 22억을 벌었나』\n[교보문고] https://product.kyobobook.co.kr/detail/S000220646274\n[예스24] https://www.yes24.com/product/goods/194347422\n\n촬영날짜 : 2026년 08월 20일\n\n00:00 인트로\n01:30 투자를 시작하게 된 계기\n02:59 처음 투자를 부동산을 한 이유\n03:58 미장에만 투자한 이유\n05:32 MDD 투자 전략\n07:00 경제 지식을 어떻게 습득했는지?\n10:12 포트폴리오 투자 방법\n11:53 대형 기업 투자 방법\n12:32 제 2의 테슬라가 어떤 것일지?\n13:26 레버리지 투자 관점 \n16:06 몰빵 투자는 어떻게 생각하는지?\n17:30 하락장에 대응하는 방법\n18:53 투자의 처음인 사람들에게 추천하는 포트폴리오\n20:52 차익 실현에 대한 세금 관리\n21:46 투자를 성공하고 싶어하는 사람들에게 한마디\n\n\n💡 월 멤버십 가입하면 이 혜택을 모두 드립니다!\n🔗 링크: https://vo.la/JMmAl7s\n◾️ 월 멤버십 강의 & 실전 포트폴리오\n◾️ 무료 특강 & PDF 받기\n◾️ 실시간 경제 시황 텔레그램\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
+      "publishedAt": "2026-08-25T23:52:53Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NHDKwFtgWZM/hqdefault.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=NHDKwFtgWZM",
+      "market": "NASDAQ",
+      "prediction": "DOWN",
+      "confidence": 0.8,
+      "rationale": "제목·설명의 ‘실패, 하락’ 표현을 하락 전망으로 분류",
+      "reviewStatus": "APPROVED",
+      "sessionDate": "2026-08-26",
+      "open": 26099.576171875,
+      "close": 26130.197265625,
+      "marketReturn": 0.0011732410345803856,
+      "actual": "UP",
+      "outcome": "OPPOSITE"
+    },
+    {
+      "id": 2,
       "videoId": "DHlz2aQyuoU",
       "title": "주식시장이 하락하는 근본적인 이유",
       "description": "21년간 93배로 자산을 불린 슈퍼개미가 알려주는 주식투자 노하우\n🚩『딴딴한 투자를 위한 주식투자 교과서』\n[교보문고] https://vo.la/rVbvEL1\n[예스24] https://vo.la/EO8UPJu\n\n💡 바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡 공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡 카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -28,7 +48,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 2,
+      "id": 3,
       "videoId": "7J3a-lIimx0",
       "title": "코스피 다시 반등합니다 흔들리지 마세요(ft.염승환 이사 1부)",
       "description": "#주식 #코스피 #삼성전자 #sk하이닉스 #환율 #코스닥 #반도체 #메모리 #투자 #투자정보 \n\n촬영날짜 : 2026년 07월 20일\n\n00:00 인트로\n01:28 계속되는 큰 변동성의 이유는 무엇인지?\n06:50 반등을 위한 증명\n11:27 현재 상황에서 가장 좋은 대처\n14:41 AI 반도체메모리 사이클은 끝인가?\n18:48 정부의 레버리지 보완책이 변동성의 영향을 줄지?\n22:56 과연 주도주의 전고점 돌파는 가능할지?\n\n21년간 93배로 자산을 불린 슈퍼개미가 알려주는 주식투자 노하우\n🚩『딴딴한 투자를 위한 주식투자 교과서』\n[교보문고] https://vo.la/rVbvEL1\n[예스24] https://vo.la/EO8UPJu\n\n💡 바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡 공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡 카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -48,7 +68,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 3,
+      "id": 4,
       "videoId": "1ItIh79wrD8",
       "title": "미국주식 이 종목 샀습니다(ft.양양스승님 2부)",
       "description": "21년간 93배로 자산을 불린 슈퍼개미가 알려주는 주식투자 노하우\n🚩『딴딴한 투자를 위한 주식투자 교과서』\n[교보문고] https://vo.la/rVbvEL1\n[예스24] https://vo.la/EO8UPJu\n\n촬영날짜 : 2026년 07월 03일\n\n00:00 인트로\n00:35 미국 주식 투자 종목-BAH\n06:59 미국 주식 투자 종목-써클\n10:16 스테이블 코인 활성화\n18:07 마무리\n\n💡 바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡 공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡 카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -68,7 +88,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 4,
+      "id": 5,
       "videoId": "9aMy-jGeQCI",
       "title": "삼성전자, SK하이닉스 팔아야 하는 이유(ft.양양스승님 1부)",
       "description": "21년간 93배로 자산을 불린 슈퍼개미가 알려주는 주식투자 노하우\n🚩『딴딴한 투자를 위한 주식투자 교과서』\n[교보문고] https://vo.la/rVbvEL1\n[예스24] https://vo.la/EO8UPJu\n\n촬영날짜 : 2026년 07월 03일\n\n00:00 인트로\n01:14 책 내용 변경\n04:24 73배에서 93배까지 수익률을 올릴 수 있었던 계기\n07:31 하이닉스랑 삼전만 오르는 현재 주식시장\n11:15 앞으로 다가올 조정\n14:54 반도체 버블에 대한 생각\n\n💡 바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡 공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡 카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -88,7 +108,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 5,
+      "id": 6,
       "videoId": "tpWWgzFGalk",
       "title": "삼성전자 실적이 잘 나와도 주가가 급락하는 이유(ft.돈의 흐름)",
       "description": "💡오프라인 하반기 주식 특강 신청 링크\n💡7/11 서울 🔗 https://vo.la/ZEDmhNF\n💡7/12 부산 🔗 https://vo.la/MxtXbEZ\n\n💡21년간 93배로 자산을 불린 슈퍼개미가 알려주는 주식투자 노하우\n[딴딴한 투자를 위한 주식투자 교과서] 도서구입링크 \n🔗교보문고 : https://vo.la/rVbvEL1\n🔗예스24 : https://vo.la/EO8UPJu\n\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -108,7 +128,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 6,
+      "id": 7,
       "videoId": "4wicTZlu-Nk",
       "title": "삼성전자, 하이닉스 1년은 더 오를 수 있습니다(ft.한규범 작가 1부)",
       "description": "#주도주 #투자 #삼성전자 #sk하이닉스 #코스피 #주도주매매 #달러 #금리 #AI\n \n🚩『주도주 사이클 절대 법칙』\n[교보문고] https://product.kyobobook.co.kr/detail/S000220004383\n[예스24] https://www.yes24.com/product/goods/189627438\n[알라딘] https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=393509996\n\n촬영날짜 : 2026년 06월 30일\n\n💡오프라인 하반기 주식 특강 신청 링크\n💡7/11 서울 🔗 https://vo.la/ZEDmhNF\n💡7/12 부산 🔗 https://vo.la/MxtXbEZ\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://vo.la/ULo1ZIg\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -128,7 +148,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 7,
+      "id": 8,
       "videoId": "HRs6rImaAcA",
       "title": "코스피 너무 많이 떨어지는데? 수상한 하락 움직임(ft.삼성전자,SK하이닉스)",
       "description": "💡오프라인 하반기 주식 특강 신청 링크\n💡7/11 서울 🔗 https://vo.la/ZEDmhNF\n💡7/12 부산 🔗 https://vo.la/MxtXbEZ\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -148,7 +168,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 8,
+      "id": 9,
       "videoId": "N4hkrBZkAyQ",
       "title": "그래도 삼성전자, SK하이닉스 사야합니다.(빈센트 하나증권 애널리스트 1부)",
       "description": "#삼성전자 #하이닉스 #주식 #per #매도 #매수\n\n🚩『여전히 주도주를 사라』\n[예스24] https://www.yes24.com/product/goods/187022947\n[교보문고] https://product.kyobobook.co.kr/detail/S000219731084\n\n촬영날짜 : 2026년 06월 05일\n\n💡오프라인 하반기 주식 특강 [다음 주도주 찾기] 신청 링크\n💡7/11 서울 🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=201112&cid=115693#course-view-201112\n💡7/12 부산 🔗 https://culture.lotteshopping.com/application/search/view.do?brchCd=0333&yy=2026&lectSmsterCd=2&lectCd=0567\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -168,7 +188,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 9,
+      "id": 10,
       "videoId": "2QcF-ytU0W0",
       "title": "나스닥 급락과 유상증자를 해야 하는 빅테크들 이야기",
       "description": "💡오프라인 하반기 주식 특강 [다음 주도주 찾기] 신청 링크\n💡7/11 서울 🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=201112&cid=115693#course-view-201112\n💡7/12 부산 🔗 https://culture.lotteshopping.com/application/search/view.do?brchCd=0333&yy=2026&lectSmsterCd=2&lectCd=0567\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -188,7 +208,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 10,
+      "id": 11,
       "videoId": "kclBKkFjZvo",
       "title": "코스피 하락, 삼전닉스 괜찮을까?",
       "description": "💡오프라인 하반기 주식 특강 [다음 주도주 찾기] 신청 링크\n💡7/11 서울\n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=201112&cid=115693#course-view-201112\n💡7/12 부산\n🔗 https://culture.lotteshopping.com/application/search/view.do?brchCd=0333&yy=2026&lectSmsterCd=2&lectCd=0567\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -208,7 +228,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 11,
+      "id": 12,
       "videoId": "5gzDHdRJMBw",
       "title": "삼전닉스가 떨어지고 반도체소부장이 급등한 이유(f.주도주순환구조)",
       "description": "💡오프라인 하반기 주식 특강 [다음 주도주 찾기] 신청 링크\n💡7/11 서울\n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=201112&cid=115693#course-view-201112\n💡7/12 부산\n🔗 https://culture.lotteshopping.com/application/search/view.do?brchCd=0333&yy=2026&lectSmsterCd=2&lectCd=0567\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -228,7 +248,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 12,
+      "id": 13,
       "videoId": "F4hLU_Seh3M",
       "title": "마이크론 20% 급등한 2가지 이유(ft.PER 16배)",
       "description": "#삼성전자  #sk하이닉스 \n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -248,7 +268,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 13,
+      "id": 14,
       "videoId": "RpTJliyWdRs",
       "title": "삼성전자, SK하이닉스 레버리지 ETF가 위험한 이유",
       "description": "💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공 (첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인 (55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -268,7 +288,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 14,
+      "id": 15,
       "videoId": "QrVT8FViwaU",
       "title": "3가지 악재가 덮친 코스피, 외인 매도를 이겨낼 수 있을까?",
       "description": "💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -288,7 +308,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 15,
+      "id": 16,
       "videoId": "mJ20VSBfRQA",
       "title": "긴급조정권 발언까지.. 가불기 걸린 삼성전자의 피해액 계산",
       "description": "💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -308,7 +328,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 16,
+      "id": 17,
       "videoId": "ZdmoIeZr5Q4",
       "title": "코스피 8000 찍자 마자 급락하는 이유(ft.삼성전자, SK하이닉스,현대)",
       "description": "💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -328,7 +348,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 17,
+      "id": 18,
       "videoId": "zSes48s5dqo",
       "title": "한국 기업들이 미국 진출에 실패하는 진짜 이유(ft.Klaus Wehage)",
       "description": "#실리콘밸리 #투자 #미국기업 #테슬라 #엔비디아 #구글 #미국\n베하게님 홈페이지\nGlobal Copilot - www.globalcopilot.com \n글로벌클래스 도서구입(원서)\n https://www.globalclasscompany.com/book\n\n촬영날짜 : 2026년 04월 25일\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: 4월의전인구 (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -348,7 +368,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 18,
+      "id": 19,
       "videoId": "cC3PUmYOjx8",
       "title": "코스피7300돌파, 지금 사도 될까? 다음 수혜주는 이겁니다.",
       "description": "💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: XYZYX (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -368,7 +388,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 19,
+      "id": 20,
       "videoId": "FE_lxrJV89s",
       "title": "코스피 또 신고가 돌파의 4가지 진실",
       "description": "💡같이 성장하는 유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n💡바로바로 써먹는 라이브와 함께하는 2026 주식투자반 \n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 월 7만 원 & 태블릿 제공(첫 구독 시)\n\n💡네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: 4월의전인구 (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n\n💡카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n\n💡경제지표 모든 것, AI 종목분석 인베스팅프로 할인(55%)\n🔗 https://www.investing-referral.com/ingujun/\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -388,7 +408,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 20,
+      "id": 21,
       "videoId": "5d-UxAx7DEU",
       "title": "현대차 앞으로 미국에서 큰일 낼 겁니다(ft.우수연 작가 1부)",
       "description": "#현대차 #현대 #미국 #하이브리드 #전기차 #현대자동차 #자율주행 #테슬라 \n\n🚩『현대차 피지컬 AI 혁명』\n[예스24] https://www.yes24.com/product/goods/183208914\n[교보문고] https://product.kyobobook.co.kr/detail/S000219513870\n\n촬영날짜 : 2026년 04월 16일\n\n00:00 인트로\n00:39 소개\n01:39 현대차 출입 \n02:18 현대차의 변화 흐름\n03:27 미국에 현대차의 성과\n07:26 현대차의 경쟁력\n08:21 하이브리드의 인기 비결\n09:17 현대차의 하이브리드 전기차 전략\n10:06 미국에서 잘 팔리는 차종\n10:49 현대차 직원이 인정하는 차종\n11:55 전기차 판매 증가\n12:53 일본차가 전기차 전환이 늦는 이유\n14:20 도요타의 미래\n15:11 중국의 전기차 시장\n16:37 한중일 중 앞으로 승자는?\n19:18 중국 전기차로 인한 테슬라 위기 \n20:11 현대차 전기차 시장의 미래\n22:43 현대차 자율주행 기술\n24:17 앞으로 현대차의 리스크\n26:37 향후 현대차 순위\n28:39 혼다 닛산 점유율이 하락하는 이유\n\n\n💡\n유튜브 통합멤버십\n🔗 https://www.youtube.com/channel/UCznImSIaxZR7fdLCICLdgaQ/join\n◾️ 주 1회 기업 분석 자료 제공 & 연 2회 오프라인 특강 초대권\n\n스파르타 주식투자반\n🔗 https://www.adamsmithclass.co.kr/course/course_view.jsp?id=195487&cid=9853#course-view-195487\n◾️ 글로벌•한국 경제 전망 & 실전 포트폴리오 제공\n◾️ 첫 구독 시 월 7만 원 (8개월 선결제 시 48만 원) & 태블릿 제공\n\n네이버 프리미엄 콘텐츠\n🔗 https://contents.premium.naver.com/moneydo/juningu\n◾️ 유튜브보다 빠른 깊이 있는 시장 분석 정보\n◾️ 월 4,900원\n◾️ 쿠폰 코드: 4월의전인구 (쿠폰 등록 시 첫 달 무료 이용 가능)\n\n💡\n공식 텔레그램 (전인구경제연구소 주식공유방)\n🔗 https://t.me/juningulab\n카카오톡 채널 (주요 공지 및 이벤트 알림)\n🔗 http://pf.kakao.com/_xoxhWSG\n인스타그램\n🔗 https://www.instagram.com/jun_ingu\n\n✉️ 출연 및 광고·강연 문의\n◾️ 이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -408,7 +428,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 21,
+      "id": 22,
       "videoId": "kzt_sjxcI4A",
       "title": "이란 전쟁 지속되면 이 기업 주목하세요 (ft. 염승환 이사 2부)",
       "description": "#이란전쟁 #태양광관련주 #신재생에너지관련주 #투자 #코스피 #친환경에너지 #2026경제전망\n\n촬영날짜 : 2026년 04월 07일\n\n00:00 인트로\n00:23 이란 전쟁중에서 더 오를 업종은?\n03:01 신재생 에너지의 부각\n06:54 앞으로 부각될 한국의 주력 업종들\n10:59 미국이 신재생에너지를 시작할 수 밖에 없는 이유\n12:35 괜찮게 보고 있는 기업들\n15:11 고령들이 하기 좋은 주식투자법\n\n\n🏛️ [신간 출간] 인생 마지막에 쓰는 주식투자 교과서\n출판사: 애덤스미스 (http://adamsmithclass.co.kr/main/index.jsp)\n\"20여 년간 자산을 83배로 불린 슈퍼개미의 딴딴한 투자 비법\"\n조선주, 원전주, AI 관련주의 미래를 예측한 통찰력을 한 권에 담았습니다.\n실전 투자자의 길을 걷는 여러분의 많은 구입과 응원 부탁드립니다.\n▫️교보문고: https://product.kyobobook.co.kr/detail/S000219379560\n▫️예스24: https://www.yes24.com/product/goods/180975910\n\n🎫 네이버 프리미엄 콘텐츠 (4월 무료 쿠폰)\n▫️링크: https://contents.premium.naver.com/moneydo/juningu\n▫️쿠폰 코드: 4월의전인구 (잊지 말고 등록하세요!)\n\n📈 2026 전인구 월간 멤버십 (애덤스미스클래스)\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n▫️멤버십 신청: https://bit.ly/2026juningu\n\n💬 [FREE] 실시간 시황 & 핵심 월간 자료\n영상으로 다 전하지 못한 긴급 소식과 매달 업데이트되는 핵심 월간 자료를 무료로 제공해 드립니다.\n시황, 리포트, 핵심 소식 등 모든 혜택을 놓치지 마세요!\n▫️입장 방법: 카카오 알림톡 신청 시 안내되는 링크로 입장\n▫️전인구경제연구소 카카오톡 플러스 친구: http://pf.kakao.com/_xoxhWSG\n(채널 추가 시 텔레그램 공식 채널 링크와 월간 자료를 함께 보내드립니다!)\n\n💎 [통합 멤버십] 전인구경제연구소 회원 전용 혜택\n▫️ 멤버십 혜택 이용하기: https://bit.ly/3pLxCrl\n\n📮 출연 및 광고·강연 문의\n▫️이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -428,7 +448,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 22,
+      "id": 23,
       "videoId": "ZxFx_ohTyqg",
       "title": "삼성전자 어닝서프라이즈 이후에 대한 생각 (ft. 염승환 이사 1부)",
       "description": "#반도체 #삼성 #하이닉스 #삼성전자 #삼성전자주가  #삼성전자주가전망  #코스피 #투자\n\n촬영날짜 : 2026년 04월 07일\n\n00:00 인트로\n01:04 이번 삼전 1분기 실적에 대한 생각\n03:13 추정치가 상향되게 나온 이유\n05:23 과연 실적이 계속 상향될까?\n06:31 최고의 실적 피크는 언제일지\n07:43 반도체 수요는 언제까지 이어지는가?\n13:01 해외 CEO들의 방문\n16:07 앞으로 AI 토큰 수요량\n18:10 삼전은 고점을 돌파 할 수 있을지?\n21:53 외인들의 생각\n\n🏛️ [신간 출간] 인생 마지막에 쓰는 주식투자 교과서\n출판사: 애덤스미스 (http://adamsmithclass.co.kr/main/index.jsp)\n\"20여 년간 자산을 83배로 불린 슈퍼개미의 딴딴한 투자 비법\"\n조선주, 원전주, AI 관련주의 미래를 예측한 통찰력을 한 권에 담았습니다.\n실전 투자자의 길을 걷는 여러분의 많은 구입과 응원 부탁드립니다.\n▫️교보문고: https://product.kyobobook.co.kr/detail/S000219379560\n▫️예스24: https://www.yes24.com/product/goods/180975910\n\n🎫 네이버 프리미엄 콘텐츠 (4월 무료 쿠폰)\n▫️링크: https://contents.premium.naver.com/moneydo/juningu\n▫️쿠폰 코드: 4월의전인구 (잊지 말고 등록하세요!)\n\n📈 2026 전인구 월간 멤버십 (애덤스미스클래스)\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n▫️멤버십 신청: https://bit.ly/2026juningu\n\n💬 [FREE] 실시간 시황 & 핵심 월간 자료\n영상으로 다 전하지 못한 긴급 소식과 매달 업데이트되는 핵심 월간 자료를 무료로 제공해 드립니다.\n시황, 리포트, 핵심 소식 등 모든 혜택을 놓치지 마세요!\n▫️입장 방법: 카카오 알림톡 신청 시 안내되는 링크로 입장\n▫️전인구경제연구소 카카오톡 플러스 친구: http://pf.kakao.com/_xoxhWSG\n(채널 추가 시 텔레그램 공식 채널 링크와 월간 자료를 함께 보내드립니다!)\n\n💎 [통합 멤버십] 전인구경제연구소 회원 전용 혜택\n▫️ 멤버십 혜택 이용하기: https://bit.ly/3pLxCrl\n\n📮 출연 및 광고·강연 문의\n▫️이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -448,7 +468,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 23,
+      "id": 24,
       "videoId": "tMY30HnCdXc",
       "title": "트럼프의 석기시대 발언의 진짜 의미(ft. 코스피 급락)",
       "description": "🏛️ [신간 출간] 인생 마지막에 쓰는 주식투자 교과서\n출판사: 애덤스미스 (http://adamsmithclass.co.kr/main/index.jsp)\n\"20여 년간 자산을 83배로 불린 슈퍼개미의 딴딴한 투자 비법\"\n조선주, 원전주, AI 관련주의 미래를 예측한 통찰력을 한 권에 담았습니다.\n실전 투자자의 길을 걷는 여러분의 많은 구입과 응원 부탁드립니다.\n▫️교보문고: https://product.kyobobook.co.kr/detail/S000219379560\n▫️예스24: https://www.yes24.com/product/goods/180975910\n\n🎫 네이버 프리미엄 콘텐츠 (4월 무료 쿠폰)\n▫️링크: https://contents.premium.naver.com/moneydo/juningu\n▫️쿠폰 코드: 4월의전인구 (잊지 말고 등록하세요!)\n\n📈 2026 전인구 월간 멤버십 (애덤스미스클래스)\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n▫️멤버십 신청: https://bit.ly/2026juningu\n\n💬 [FREE] 실시간 시황 & 핵심 월간 자료\n영상으로 다 전하지 못한 긴급 소식과 매달 업데이트되는 핵심 월간 자료를 무료로 제공해 드립니다.\n시황, 리포트, 핵심 소식 등 모든 혜택을 놓치지 마세요!\n▫️입장 방법: 카카오 알림톡 신청 시 안내되는 링크로 입장\n▫️전인구경제연구소 카카오톡 플러스 친구: http://pf.kakao.com/_xoxhWSG\n(채널 추가 시 텔레그램 공식 채널 링크와 월간 자료를 함께 보내드립니다!)\n\n💎 [통합 멤버십] 전인구경제연구소 회원 전용 혜택\n▫️ 멤버십 혜택 이용하기: https://bit.ly/3pLxCrl\n\n📮 출연 및 광고·강연 문의\n▫️이메일: dodarimedia@naver.com\n\n#전인구 #전인구경제연구소 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -468,7 +488,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 24,
+      "id": 25,
       "videoId": "Ts7dyySXe9g",
       "title": "외국인이 코스피에서 도망치고 있는 이유(ft,삼성전자)",
       "description": "🏛️ [신간 출간] 인생 마지막에 쓰는 주식투자 교과서\n출판사: 애덤스미스 (http://adamsmithclass.co.kr/main/index.jsp)\n\"20여 년간 자산을 83배로 불린 슈퍼개미의 딴딴한 투자 비법\"\n조선주, 원전주, AI 관련주의 미래를 예측한 통찰력을 한 권에 담았습니다.\n실전 투자자의 길을 걷는 여러분의 많은 구입과 응원 부탁드립니다.\n▫️교보문고: https://product.kyobobook.co.kr/detail/S000219379560\n▫️예스24: https://www.yes24.com/product/goods/180975910\n\n🎫 네이버 프리미엄 콘텐츠 (3월 무료 쿠폰)\n▫️링크: https://contents.premium.naver.com/moneydo/juningu\n▫️쿠폰 코드: 202603 (잊지 말고 등록하세요!)\n\n📈 2026 전인구 월간 멤버십 (애덤스미스클래스)\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n▫️멤버십 신청: https://bit.ly/2026juningu\n\n💬 [FREE] 실시간 시황 & 핵심 월간 자료\n영상으로 다 전하지 못한 긴급 소식과 매달 업데이트되는 핵심 월간 자료를 무료로 제공해 드립니다.\n시황, 리포트, 핵심 소식 등 모든 혜택을 놓치지 마세요!\n▫️입장 방법: 카카오 알림톡 신청 시 안내되는 링크로 입장\n▫️전인구경제연구소 카카오톡 플러스 친구: http://pf.kakao.com/_xoxhWSG\n(채널 추가 시 텔레그램 공식 채널 링크와 월간 자료를 함께 보내드립니다!)\n\n💎 [통합 멤버십] 전인구경제연구소 회원 전용 혜택\n▫️ 멤버십 혜택 이용하기: https://bit.ly/3pLxCrl\n\n📮 출연 및 광고·강연 문의\n▫️이메일: dodarimedia@naver.com\n\n#전인구 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -488,7 +508,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 25,
+      "id": 26,
       "videoId": "Ox5GX4j2cb8",
       "title": "전 삼성전자 부사장의 경고, 한국 반도체 곧 위기가 올 수 있습니다(ft.이병철 교수 1부)",
       "description": "#삼성전자 #반도체 #투자 #미국 #중국 #AI #반도체시장 #반도체전망 #반도체전쟁\n🚩『삼성전자 전 부사장이 말하는 K-반도체 초격차전략』\n[예스24] https://www.yes24.com/product/goods/170671166\n[교보문고] https://product.kyobobook.co.kr/detail/S000218684086\n\n촬영날짜 : 2026년 03월 26일\n\n00:00 인트로\n00:53 소개\n01:36 현재과 과거의 삼전 반도체 사이클 비교\n03:11 삼전이 반도체로 성공할 수 있었던 이유\n04:06 중국이 반도체 강국이 되기 위해 노력 중인 것들\n07:28 중국의 압도적인 물량 공세\n10:46 중국의 완다오차오처 전략\n15:15 중국 빠른 기술 발전의 계기\n18:05 미국의 견제에 대한 생각\n20:38 미중의 패권 전쟁\n24:08 과연 중국은 한국을 몇 년안에 기술력을 따라잡을 수 있을지?\n\n📚양양스승님 도서 [인생 마지막에 스는 주식투자 교과서]가 출간되었습니다. \n20여 년간 자산을 83배로 불렸던 슈퍼개미의 딴딴한 주식투자 비법\n조선주, 원전주, AI 관련 주의 미래를 예측한 슈퍼개미\n많은 구입과 응원 부탁드립니다.\n\n📚인생 마지막에 쓰는 주식투자 교과서\n교보문고 구입 링크: https://product.kyobobook.co.kr/detail/S000219379560\n예스24 구입 링크: https://www.yes24.com/product/goods/180975910\n\n📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰: https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호: 202603\n\n📚 2026년 전인구 월간 멤버십 가입하기: https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공): http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n\n📚 같이 부자 되는 멤버십 가입 링크: https://bit.ly/3pLxCrl\n\n📚 출연 신청 & 광고 및 강연 문의: dodarimedia@naver.com\n\n#전인구 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -508,7 +528,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 26,
+      "id": 27,
       "videoId": "AKG38NKdU3M",
       "title": "코스피 1만 성패는 러시아에 달려있습니다(ft.소현철 교수 3부)",
       "description": "#러시아 #러시아전쟁 #코스피 #코스닥 #투자 #환율 #채권 #미국 #이란 #미국이란전쟁\n\n촬영 날짜 : 2026년 03월 12일\n\n00:00 인트로\n00:23 미국과 러시아의 관계 복원\n02:37 한러 관계 복원\n04:55 한미 제조업 동맹:MASGA\n07:02 남북경제협력 수혜 섹터\n08:28 한러 관계 복원과 남북 경제협력 수혜섹터\n10:59 우러 전쟁 이후 집중해야할 섹터\n12:46 우선주도 수혜를 받고 있는지?\n15:37 개별주식말고 ETF를 해야하는 이유\n18:24 진짜 주식을 하는 방법\n\n📚양양스승님 도서 [인생 마지막에 스는 주식투자 교과서]가 출간되었습니다. \n20여 년간 자산을 83배로 불렸던 슈퍼개미의 딴딴한 주식투자 비법\n조선주, 원전주, AI 관련 주의 미래를 예측한 슈퍼개미\n많은 구입과 응원 부탁드립니다.\n\n📚인생 마지막에 쓰는 주식투자 교과서\n교보문고 구입 링크: https://product.kyobobook.co.kr/detail/S000219379560\n예스24 구입 링크: https://www.yes24.com/product/goods/180975910\n\n📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰: https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호: 202603\n\n📚 2026년 전인구 월간 멤버십 가입하기: https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공): http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n\n📚 같이 부자 되는 멤버십 가입 링크: https://bit.ly/3pLxCrl\n\n📚 광고/강연 문의: dodarimedia@naver.com\n\n#전인구 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -528,7 +548,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 27,
+      "id": 28,
       "videoId": "KIgYzQ-d_ok",
       "title": "전설의 반도체 애널리스트가 코스피 7000, 삼성전자 25만원을 보는 이유(ft.소현철 교수 2부)",
       "description": "#삼성전자 #삼성전자주가전망 #코스피 #반도체 #반도체시장 #반도체etf #투자 #달러\n\n촬영 날짜 : 2026년 03월 12일\n\n00:00 인트로\n00:22 삼성전자는 다시 전고점을 돌파할 수 있을까?\n02:47 미국 이란 전쟁의 터닝포인트\n05:58 삼성전자가 고점 돌파시 생각하는 코스피\n\n📚양양스승님 도서 [인생 마지막에 스는 주식투자 교과서]가 출간되었습니다. \n20여 년간 자산을 83배로 불렸던 슈퍼개미의 딴딴한 주식투자 비법\n조선주, 원전주, AI 관련 주의 미래를 예측한 슈퍼개미\n많은 구입과 응원 부탁드립니다.\n\n📚인생 마지막에 쓰는 주식투자 교과서\n교보문고 구입 링크: https://product.kyobobook.co.kr/detail/S000219379560\n예스24 구입 링크: https://www.yes24.com/product/goods/180975910\n\n📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰: https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호: 202603\n\n📚 2026년 전인구 월간 멤버십 가입하기: https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공): http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n\n📚 같이 부자 되는 멤버십 가입 링크: https://bit.ly/3pLxCrl\n\n📚 광고/강연 문의: dodarimedia@naver.com\n\n#전인구 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -548,7 +568,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 28,
+      "id": 29,
       "videoId": "rkpRs7LOZKY",
       "title": "외국인들 시선은 차갑습니다. 한국증시 골든타임 5년 남았습니다(ft.존리 대표 2부)",
       "description": "#한국 #투자 #외국인 #미국 #한국증시\n\n🚩 [미래의 5년, 30만부 화제의 베스트셀러]\n🚩『존리의 부자되기 습관』 5년만에 다시 돌아오다.\n[예스24] https://myip.kr/sSpkI\n[교보문고] https://myip.kr/tDbsc\n\n촬영날짜 : 2026년 03월 09일\n\n00:00 인트로\n00:17 전쟁 이슈로 인해 반도체 투자 영향\n01:14 ETF 투자법\n02:48 미국 대학교 등록금 제도\n05:51 주식을 시작하게 된 계기\n06:16 펀드매니저 시절 일화\n11:47 외국인 투자자들이 한국에 투자를 안 하는 이유\n12:26 외국인 투자자들이 선호하는 나라\n13:25 한국이 미국에 취업하는 부분에 대한 생각\n14:32 한국이 성장했을 때 코스피 지수\n17:02 코스피에서 외국인이 팔고 나가는 이유\n18:43 주가 급등 시 구매 방법\n\n📚양양스승님 도서 [인생 마지막에 스는 주식투자 교과서]가 출간되었습니다. \n20여 년간 자산을 83배로 불렸던 슈퍼개미의 딴딴한 주식투자 비법\n조선주, 원전주, AI 관련 주의 미래를 예측한 슈퍼개미\n많은 구입과 응원 부탁드립니다.\n\n📚인생 마지막에 쓰는 주식투자 교과서\n교보문고 구입 링크: https://product.kyobobook.co.kr/detail/S000219379560\n예스24 구입 링크: https://www.yes24.com/product/goods/180975910\n\n📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰: https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호: 202603\n\n📚 2026년 전인구 월간 멤버십 가입하기: https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공): http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n\n📚 같이 부자 되는 멤버십 가입 링크: https://bit.ly/3pLxCrl\n\n📚 광고/강연 문의: dodarimedia@naver.com\n\n#전인구 #2026경제전망 #트럼프 #미국 #환율 #달러 #금리 #경제 #나스닥 #미국주식 #코스피 #실적 #주식 #투자 #금 #재테크 #자산배분",
@@ -568,7 +588,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 29,
+      "id": 30,
       "videoId": "8b_HulobJuI",
       "title": "코스피만 크게 하락한 이유, 이제 못 참겠습니다",
       "description": "📚양양스승님 도서가 출간되었습니다. \n지금같은 힘든 시장에 조언도 듣고 왔는데 \n영상은 귀국해서 편집되는 대로 올리겠습니다.\n많은 구입과 응원부탁드립니다\n📚인생 마지막에 쓰는 주식투자교과서\n구입링크 : https://product.kyobobook.co.kr/detail/S000219379560\n📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰 : https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호 : 202603\n📚 2026년 전인구 월간 멤버십 가입하기 : https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공) : http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n📚 인베스팅닷컴 55% 할인 링크 : https://www.investing-referral.com/ingujun\n📚 같이 부자 되는 멤버십 가입 링크 : https://bit.ly/3pLxCrl \n📚 미국 주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚 광고/강연 문의 : dodarimedia@naver.com\n\n#트럼프 #미국 #투자 #코스피 #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -588,7 +608,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 30,
+      "id": 31,
       "videoId": "ZWLMnvcPcgo",
       "title": "삼성전자 -10%, 공포 말고 투자자는 2가지만 생각하세요(ft.코스피-7%)",
       "description": "📚 네이버 프리미엄 콘텐츠 3월 무료 쿠폰 : https://contents.premium.naver.com/moneydo/juningu\n무료 쿠폰 코드번호 : 202603\n📚 2026년 전인구 월간 멤버십 가입하기 : https://bit.ly/2026juningu\n주도주 투자도 중요하고 리스크 헷지도 중요합니다.\n계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 아직 오르지 않은 업종을 찾아냅니다.\n무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서입니다.\n적게 잃고, 벌 때 같이 벌면 평생 할 주식투자에서 승자가 될 가능성이 올라갑니다.\n그래서 포트폴리오가 필요하고, 이를 같이 공유합니다.\n강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 강의 주제와 라이브 강의를 하니 많은 사랑 부탁드립니다.\n📚 카카오톡 친구하기 (매일 시황, 월간 자료 무료제공) : http://pf.kakao.com/_xoxhWSG\n영상으로 빠르게 전달드릴 수 없는 것은 텔레그램 공식 채널로 알려드리고 있습니다.\n시황, 자료, 긴급 소식 등 모두 무료이니 카카오 알림 톡 신청하시고 링크 받으시면 들어올 수 있습니다.\n📚 인베스팅닷컴 55% 할인 링크 : https://www.investing-referral.com/ingujun\n📚 같이 부자 되는 멤버십 가입 링크 : https://bit.ly/3pLxCrl \n📚 미국 주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚 광고/강연 문의 : dodarimedia@naver.com\n\n#트럼프 #미국 #투자 #코스피 #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -608,7 +628,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 31,
+      "id": 32,
       "videoId": "t_M9k9IvBJw",
       "title": "내일 삼성전자, SK하이닉스 팔아야할까?",
       "description": "📚 네이버 프리미엄 콘텐츠 3월 무료쿠폰 : https://contents.premium.naver.com/moneydo/juningu\n        무료쿠폰코드번호 : 202603\n📚 2026년 전인구 월간멤버십 가입하기 : https://bit.ly/2026juningu\n      주도주 투자도 중요하고 리스크 헷지도 중요합니다. \n      계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 \n       아직 오르지 않은 업종을 찾아 냅니다. 무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서 입니다.\n       적게 잃고, 벌 때 같이 벌면 평생할 주식투자에서 승자가 될 가능성이 올라갑니다.\n       그래서 포트폴리오가 필요하고, 이를 같이 공유합니다. \n       강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 \n       강의주제와 라이브 강의를 하니 많은 사랑 부탁드립니다. \n📚 카카오톡 친구하기(매일시황, 월간자료 무료제공) : http://pf.kakao.com/_xoxhWSG\n       영상으로 빠르게 전달드릴수 없는 것은 텔레그램공식채널로 알려드리고 있습니다. \n       시황, 자료, 긴급소식 등 모두 무료이니 \n       카카오 알림톡 신청하시고 링크 받으시면 들어올수 있습니다\n📚 광고/강연 문의 : dodarimedia@naver.com\n\n#트럼프 #미국 #투자 #코스피 #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -628,7 +648,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 32,
+      "id": 33,
       "videoId": "Td-rRVm_7ms",
       "title": "삼성전자 20만원, SK하이닉스 100만원 돌파한 이유",
       "description": "📚 2026년 전인구 월간멤버십 가입하기 : https://bit.ly/2026juningu\n      주도주 투자도 중요하고 리스크 헷지도 중요합니다. \n      계속 바뀌는 주도주를 최대한 먼저 찾아내고, 잃지 않는 투자를 하기 위해 \n       아직 오르지 않은 업종을 찾아 냅니다. 무리한 투자를 하지 않는 이유는 돈을 잃기 싫어서 입니다.\n       적게 잃고, 벌 때 같이 벌면 평생할 주식투자에서 승자가 될 가능성이 올라갑니다.\n       그래서 포트폴리오가 필요하고, 이를 같이 공유합니다. \n       강의비도 대폭 낮췄고, 매월 실시간 트렌드에 맞게 \n       강의주제와 라이브 강의를 하니 많은 사랑 부탁드립니다. \n📚 카카오톡 친구하기(매일시황, 월간자료 무료제공) : http://pf.kakao.com/_xoxhWSG\n       영상으로 빠르게 전달드릴수 없는 것은 텔레그램공식채널로 알려드리고 있습니다. \n       시황, 자료, 긴급소식 등 모두 무료이니 \n       카카오 알림톡 신청하시고 링크 받으시면 들어올수 있습니다\n📚 인베스팅닷컴 55% 할인 링크 : https://www.investing-referral.com/ingujun\n📚 같이 부자 되는 멤버십 가입 링크 : https://bit.ly/3pLxCrl \n📚 미국 주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚 더 쉽게 설명하는 네이버 프리미엄 콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연 문의 : dodarimedia@naver.com\n\n#트럼프 #미국 #투자 #코스피 #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -648,7 +668,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 33,
+      "id": 34,
       "videoId": "XAJqKI8IIpI",
       "title": "앞으로 조선주가 더 상승할 수 있는 이유(ft.엄경아 연구원)",
       "description": "#조선주 #코스피 #코스닥 #조선빅3관련주 #환율 #관세  #투자 #전쟁 #금리\n촬영날짜 : 2026년 1월 21일\n\n00:00 인트로\n00:27 조선주 근황\n03:40 25년도에 조선주의 급등 이유\n07:44 캐나다 60조짜리 잠수함 수주전\n10:22 정부간의 기술이전의 요구에 대한 목적\n11:24 조선업에서의 AI 인력 대체\n17:23 조선업에서 LNG선이 주목 받는 이유\n26:20 조선주를 구매 시 오른 것vs덜 오른 것\n29:38 26년 조선주에 관련된 호재\n34:30 중국 조선업의 위협\n36:08 26년 조선주 어떻게 투자하면 될까?\n\n📚《뉴욕상단 공동구매》링크 :  https://web.rethinkmall.com/link/16983\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인링크 : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -668,7 +688,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 34,
+      "id": 35,
       "videoId": "FO0mXo0m_IQ",
       "title": "순환매 장세 이 주식 사야 돈 법니다(ft. 이경민 부장 1부)",
       "description": "#주식 #순환매 #삼성 #하이닉스 #상승 #내수주 #화장품 #식품 #엔터 #투자\n촬영날짜 : 2026년 01월 29일\n\n00:00 인트로\n00:42 2차전지가 급등한 이유\n02:30 2차전지는 상승기간\n03:30 순환매가 벌어지는 이유\n04:43 순환매 다음 업종\n07:23 순환매 관점에서 외국인 투자, 주가 상승 중 살펴봐야 될 것\n08:27 순환매 장세에서 투자자의 전략\n10:29 삼성전자 하이닉스 과열\n12:07 실적 주가 관계\n14:55 AI 수익성\n\n📚《뉴욕상단 공동구매》링크 :  https://web.rethinkmall.com/link/16983\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인링크 : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -688,7 +708,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 35,
+      "id": 36,
       "videoId": "1kIU3cCmuCw",
       "title": "4년 만에 돌아온 슈퍼사이클 아직 기회는 있습니다(ft.조윤남 대표 1부)",
       "description": "#삼성전자 #SK하이낙스 #AI #투자 #국장 #금리 #달러 #주식 #코스피 #코스닥 #환율 #재테크 \n촬영날짜 : 2026년 1월 19일\n\n00:00 인트로\n00:25 소개\n03:41 지금까지의 주식 사이클의 종류\n06:37 현재 4900선을 돌파한 주식 사이클\n08:10 특정 주식만 오르는 건 과연 건강한 장인가?\n11:46 슈퍼사이클이 오면 얼마나 가는지?\n14:53 삼전과 하이닉스 캐파 증설시 투자적 접근 방법\n16:58 반도체 회사들의 약속된 4년\n19:18 반도체와 같이 움직이는 섹터들\n21:12 AI버블에 대한 생각\n22:42 만약 AI버블로 인하여 생기는 시장의 충격\n\n📚《사이클 투자 법칙》구입하기 : https://zrr.kr/oAIyjC\n\n📚《뉴욕상단 공동구매》링크 :  https://web.rethinkmall.com/link/16983\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인링크 : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -708,7 +728,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 36,
+      "id": 37,
       "videoId": "QNsGe7WU02s",
       "title": "대통령 신년기자회견에서 얻은 3가지 주식투자 힌트",
       "description": "📚 한달 100원강의 신청 :  https://us-insight.com/products/group/80\n\"보통 사람도 부자가 되는 세상, 전인구가 함께하겠습니다.\"\n\n코스피 5,000포인트 시대가 머지않았습니다. 시장의 변화가 가속화되는 지금, 주식을 처음 시작하거나 다시 도전하시는 분들에게는 그 어느 때보다 명확한 길잡이가 필요합니다.\n\n저의 목표는 하나입니다. 바로 '보통 사람도 잘 살 수 있는 세상을 만드는 것'입니다.\n\n여러분의 출근길부터 퇴근길까지, 돈의 흐름을 남들보다 빠르게 읽어내겠습니다. 매일, 매주, 매월 핵심 산업과 수혜 기업, 그리고 놓쳐서는 안 될 투자 포인트를 꼼꼼히 점검해 드립니다.\n\n1월 21일부터 2월 16일까지, 첫 달 100원 이벤트로 그 시작을 함께하고자 합니다. 부담 없이 오셔서 성공하는 투자 습관을 만드십시오. 여러분을 기다리겠습니다.",
@@ -728,7 +748,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 37,
+      "id": 38,
       "videoId": "OK7RMCqPD10",
       "title": "코스피 이제 팔자/ 환율조림 이야기 / 비트코인과 해외거래소 차단 / 미국 은행주 폭락",
       "description": "📚《뉴욕상단 공동구매》링크 :  https://web.rethinkmall.com/link/16983\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG",
@@ -748,7 +768,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 38,
+      "id": 39,
       "videoId": "15s6zD-xgws",
       "title": "그때와 다릅니다 K바이오에 큰 기회가 왔습니다(ft.강하나 대표 2부)",
       "description": "#주식 #바이오 #바이오주식 #셀트리온 #국장 #미장 #투자 #금리 \n촬영날짜 : 2026년 1월 5일\n\n00:00 인트로\n00:36 이번 국내 바이오 많이 오른 특징\n02:19 바이오 투자 전략\n04:53 오른 주식vs아직 안 오른 주식\n06:53 올해 국내 바이오 호재\n08:38 2026년 AI바이오 전망\n12:31 옛날과 다른 현재 바이오 업계\n\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《뉴욕상단 공동구매》\n    - 샤크 가벼운 무선청소기 :  https://shop.srookpay.com/trendlab/Detail/STR64646414\n - 삼성노트북  : https://bit.ly/junsmall\n \n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -768,7 +788,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 39,
+      "id": 40,
       "videoId": "2wvb6s7qwIc",
       "title": "트럼프가 무리해서라도 그린란드를 100% 합병할겁니다(ft.수혜주)",
       "description": "📚《뉴욕상단 공동구매》\n   - 한강라면조리기, LG울트라탭 :  : https://web.rethinkmall.com/link/16983\n   - 샤크 가벼운 무선청소기 :  https://shop.srookpay.com/trendlab/Detail/STR64646414\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -788,7 +808,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 40,
+      "id": 41,
       "videoId": "mCKbg-iZwx0",
       "title": "바이오주 올해 크게 오를 겁니다. 이 주식은 놓치지 마세요(ft.강하나 대표 1부)",
       "description": "#주식 #바이오 #바이오주식 #셀트리온 #국장 #미장 #투자 #금리 \n촬영날짜 : 2026년 1월 5일\n\n00:00 인트로\n00:23 소개\n01:03 전반적인 바이오 업계 상황\n02:34 바이오 대형주의 파멸적인 상승\n05:50 바이오 ETF의 공식\n09:52 전과 다른 바이오 주식 트렌드\n11:57 압도적인 바이오 트렌드 '비만'\n\n📚 카카오톡 친구하기(무료PDF 매월제공) : http://pf.kakao.com/_xoxhWSG\n📚《뉴욕상단 공동구매》\n    - 샤크 가벼운 무선청소기 :  https://shop.srookpay.com/trendlab/Detail/STR64646414\n - 삼성노트북  : https://bit.ly/junsmall\n \n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -808,7 +828,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 41,
+      "id": 42,
       "videoId": "AhGMMpw6c70",
       "title": "한달만에 70% 오른 은, 지금 사도 될까?",
       "description": "📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -828,7 +848,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 42,
+      "id": 43,
       "videoId": "zPlLii47TUo",
       "title": "일본이 금리를 올리는 이유(ft. 김경원 교수 2부)",
       "description": "#환율 #달러 #한국 #금리 #상승 #부동산 \n촬영날짜 : 2025년 12월 22일\n\n00:00 인트로\n00:34 일본 엔케리 청산 가능성?\n07:55 엔화 강세\n14:50 위안화 강세\n19:10 미국 유동성\n21:05 차기 연준 의장\n\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -848,7 +868,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 43,
+      "id": 44,
       "videoId": "Q58k3PYpqEE",
       "title": "미국주식 팔고 한국주식 사면 100% 양도세 감면(ft.환율급락)",
       "description": "📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n📚인베스팅닷컴 55% 할인 (~12/25) : \nhttps://www.investing-referral.com/ingujun\n📚같이 부자되는 멤버십 가입링크 : https://bit.ly/3pLxCrl \n📚미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n📚더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n📚 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -868,7 +888,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 44,
+      "id": 45,
       "videoId": "fIyQXZ4W4o8",
       "title": "코스피 1만까지 오를 수 있습니다(ft.소현철 교수 1부)",
       "description": "촬영날짜: 2025년 12월 15일\n\n00:00 인트로\n00:22 소개\n02:38 한국의 강한 분야\n05:35 그동안 지수가 오르지 못한 이유\n07:38 북한과 러시아에 대한 생각의 전환\n10:42 북한에게 손을 건네는 트럼프\n17:48 미국과 북한의 협력으로 바뀌는 일\n20:39 미국,중국,러시아의 균형외교\n\n📚《한반도 슈퍼 사이클》 구입하기\n- 교보문고: https://link24.kr/28ucGMG\n- 예스24: https://link24.kr/6Msnnwo\n📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n\n경제지표의 모든 것 인베스팅닷컴 할인링크 :\nhttps://www.investing-referral.com/ingujun\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -888,7 +908,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 45,
+      "id": 46,
       "videoId": "NeEg_zA5Ahw",
       "title": "환율 1474원, 일본금리인상 시작, 엔화를 사야 하는 이유",
       "description": "📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n\n경제지표의 모든 것 인베스팅닷컴 할인링크 :\nhttps://www.investing-referral.com/ingujun\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -908,7 +928,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 46,
+      "id": 47,
       "videoId": "pGE2mmH2s1Y",
       "title": "파월 뭔가 이상하지 않나?(ft.금리인하, 단기채매입, 오라클 급락)",
       "description": "📚《2026 환율전쟁》 구입하기\n- 교보문고: https://link24.kr/HSYRjah\n- 예스24: https://link24.kr/1xzlPlw\n- 알라딘: https://link24.kr/GZyepzJ\n📚 2026년 경제전망 [무슨주식을살까요?] 특강신청\n12월 28일(부산) : https://bit.ly/lottepusan\n1월 3일 (서울) : https://bit.ly/juningu10\n\n경제지표의 모든 것 인베스팅닷컴 할인링크 :\nhttps://www.investing-referral.com/ingujun\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -928,7 +948,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 47,
+      "id": 48,
       "videoId": "Ixm78BxOn4U",
       "title": "중국의 고성장 속 투자 기회!  차이나소비트렌드 ETF가 나왔습니다 (ft. SOL 차이나소비트렌드 ETF)",
       "description": "#트럼프 #미국  #투자 #코스피  #재테크 #주식# SOL #SOL 차이나소비트텐드 ETF #달러 #라부부 #중국 \n\nhttps://blog.naver.com/soletf/224080781279\n\n-이 영상은 신한자산운용의 지원을 받아 제작되었습니다.",
@@ -948,7 +968,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 48,
+      "id": 49,
       "videoId": "rpSGEvGvFqY",
       "title": "내년 강세장이 오는 이유 트럼프의 진짜 속셈(ft.김광석 실장 1부)",
       "description": "#스테이블코인 #금리 #환율 #달러 #비트코인 #테더 #써클 #경제성장률 #경제 #트럼프 #금 #bitcoin\n촬영날짜 : 2025년 10월 21일 \n\n00:00 하이라이트\n00:17 2026년 스테이블코인\n01:09 지경학적 분절화의 대하여\n07:06 앞으로 세계 경제성장률은 어떤가?\n10:47 에브리싱 랠리와 디베이스먼트\n17:44 자산인플레와 상품인플레\n21:00 저유가 상태의 인플레\n22:40 트럼프 행정부의 공식\n\n✅ 『스테이블코인 전쟁 2026년 경제전망』 구입하기\n- 교보문고: https://product.kyobobook.co.kr/detail/S000217421514\n- 예스24: https://www.yes24.com/product/goods/152577197\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n미국주식정보 1위 시킹알파 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -968,7 +988,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 49,
+      "id": 50,
       "videoId": "DQbFaiZKeGk",
       "title": "조선, 방산 이 기업만 한 게 없습니다(ft. 차영주 소장 2부)",
       "description": "#원전 #방산 #수주 #투자 #기업 #재무제표 \n촬영날짜 : 2025년 09월 26일\n\n00:00 인트로\n00:28 조선, 방산 횡보 중인 이유\n05:14 조선, 방산 수주 접근법\n11:02 현대로템 재무제표\n11:42 방산기업 영업이익률\n13:29 방산주가 꺾이는 시점\n14:59 재상승할 수 있는 기업\n18:27 조선, 방산주 투자 시 주의점\n\n✅ 『재무제표 핵심 투자 수업』 구입하기\n- 교보문고: https://product.kyobobook.co.kr/detail/S000217525678\n- 예스24: https://www.yes24.com/product/goods/153636291\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -988,7 +1008,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 50,
+      "id": 51,
       "videoId": "xomi7IKmE28",
       "title": "삼성전자 그래도 오릅니다(ft.차영주 소장 1부)",
       "description": "#삼성전자 #하이닉스 #주가 #영업이익률 #재무제표 \n촬영날짜 : 2025년 09월26일\n\n00:00 인트로\n00:24 소개\n00:48 삼성전자 주가가 오른 이유는? \n05:11 그동안 삼성전자 주가가 안 오른 이유는? \n06:31 하이닉스가 주가가 올랐던 이유는?\n07:30 레거시 D램 낸드 이쪽이 좋아진 이유는?\n09:17 삼성전자 주가 10만 원 돌파 가능성\n12:33 파월의 AI 과열 주가 버블 발언\n14:57 삼성전자, 하이닉스 재무제표\n19:43 삼성전자 역대급 영업이익률\n22:03 책 소개\n\n✅ 『재무제표 핵심 투자 수업』 구입하기\n- 교보문고: https://product.kyobobook.co.kr/detail/S000217525678\n- 예스24: https://www.yes24.com/product/goods/153636291\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -1008,7 +1028,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 51,
+      "id": 52,
       "videoId": "FgD0hLlN_mo",
       "title": "한국인은 모르는 1년 만에 60% 오른 AI 회사(ft.Spenser Skates Amplitude CEO)",
       "description": "#미국 #한국 #주식 #코스피 #트럼프 #경제 #AI #스타트업\n촬영일자 : 2025년 08월 25일\n\n00:13 소개\n00:32 Amplitude란 회사의 소개\n02:12 회사의 설립배경\n05:29 회사의 성장스토리\n10:05 회사가 급속도로 성장한 기간\n11:16 오늘날 회사 주요 고객\n12:12 왜 많은 기업들이 앰플리튜드 프로그램을 쓰는지?\n13:14 회사 프로그램에 AI를 활용하고 있는지?\n14:43 AI에이전트가 출시하면 더 매출 어떻게 될지?\n15:17 기업 운영시 전화점이나 이정표\n16:46 Amplitude의 핵심 제품 서비스\n19:56 한국에서 Amplitude를 선호하는 이유\n22:20 Amplitude의 지속가능성\n23:23 주가가 60퍼센트이상 오른 비결\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -1028,7 +1048,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 52,
+      "id": 53,
       "videoId": "IJ1KD9svbVU",
       "title": "조선주를 사야하는 이유(ft.박민수 작가 3부)",
       "description": "#미국 #한국 #주식 #코스피 #트럼프  #경제 #경기 #관세 #조선 #조선주\n촬영일자 : 2025년 08월 13일\n\n00:00 하이라이트\n00:32 과거에 패권 전쟁으로 인한 교훈\n05:52 앞으로 조선주의 전망\n08:34 러우 전쟁이 종전한다면\n09:15 역사를 통한 군함대의 중요성\n14:17 미국이 조선업에 집중하는 이유\n16:38 옛날 전쟁 비즈니스\n21:32 아직 일본이 군국주의에 놓지 않은 이유\n25:06 과거부터 이어져 온 미국의 조련\n\n(도서링크) \n📖 무박 3일 밤새워 읽는 최고민수 경제사 특강📖\n교보문고: https://product.kyobobook.co.kr/detail/S000217165860\n예스24: https://www.yes24.com/product/goods/150031057\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -1048,7 +1068,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 53,
+      "id": 54,
       "videoId": "5f97Ap2_108",
       "title": "비트코인 지금이라도 사야합니다(ft.강승구 부대표 1부)",
       "description": "#비트코인 #알트코인 #스테이블코인 #리플 #이더리움 #트럼프 #달러 #금 #골드 #미국\n촬영날짜 : 2025.07.29\n00:00 하이라이트\n00:31 소개\n04:23 갑자기 비트코인이 각광 받는 이유\n06:52 미국이 계속 비트코인을 사는 이유\n08:53 비트코인에 대한 활용\n10:12 비트코인 시세의 안정화\n12:23 비트코인과 제 2의 비트코인과의 경쟁\n14:58 한국이 알트코인에만 열광인 이유\n\n같이 부자되는 멤버십 가입링크(멤버십혜택 확인하기)\n★★ https://bit.ly/3pLxCrl ★★\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com\n\n\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -1068,7 +1088,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 54,
+      "id": 55,
       "videoId": "tR0cIo4BW8M",
       "title": "잃어버린 30년이 만든 일본 국민의 비참한 현실(ft.KBS이성범 PD 2부)",
       "description": "도서 [엑소더스 재팬] 도서구입링크 \n예스24 : https://www.yes24.com/product/goods/148799038\n\n#일본 #일본버블 #니케이 #엔화 #잃어버린30년 #일본주식 #관세 #아베\n촬영날짜 : 2025.07.29\n00:00 하이라이트\n00:35 소개\n01:42 현재 일본 경제 상황\n04:28 일본 경제가 다시 살아난 이유\n07:57 1980년의 일본 버블\n10:57 일본이 반등을 못한 이유\n11:51 아베노믹스 정책\n14:39 일본 금리 인상의 나비효과\n17:32 현재 일본의 국가 경쟁력\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1088,7 +1108,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 55,
+      "id": 56,
       "videoId": "G6I7rLdfwJc",
       "title": "지금 일본이 망한 상황과 너무 똑같습니다(ft.KBS이성범PD 1부)",
       "description": "도서 [엑소더스 재팬] 도서구입링크 \n예스24 : https://www.yes24.com/product/goods/148799038\n\n#일본 #일본버블 #니케이 #엔화 #잃어버린30년 #일본주식 #관세 #아베\n촬영날짜 : 2025.07.29\n00:00 하이라이트\n00:35 소개\n01:42 현재 일본 경제 상황\n04:28 일본 경제가 다시 살아난 이유\n07:57 1980년의 일본 버블\n10:57 일본이 반등을 못한 이유\n11:51 아베노믹스 정책\n14:39 일본 금리 인상의 나비효과\n17:32 현재 일본의 국가 경쟁력\n2025년 온오프라인 주식강의 신청 : https://bit.ly/3ZS3YQC\n2025 코리아블록체인위크 참석(20%할인) : https://bit.ly/3IAo6k0\n미국주식정보 1위 시킹알파 가입 : https://www.sahg6dtr.com/4DL4K33/R74QP/\n더 쉽게 설명하는 네이버프리미엄콘텐츠  : https://naver.me/GHVcSznI\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1108,7 +1128,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 56,
+      "id": 57,
       "videoId": "lLIRyxdZdaY",
       "title": "[단독라이브] 잠시 상승 멈춘 한국, 미국 증시 더 오를 수 있을까?",
       "description": "■ [단독공개] 전인구 소장X이혜성 반장이 함께하는 기업분석 투자교실 신청하기 : https://us-insight.com/products/group/63\n\n텐배거, 미래성장가능 핵심 기업 21선을 선정했습니다. 주간으로 분석하며 시장 흐름과 기업의 성장력을 라이브와 녹화본으로 함께 살펴봅시다. 한번의 분석으로 끝나는 것이 아닌, 6개월간 긴 호흡으로 함께하며 21개 핵심 기업에 대한 주간 변동사항을 시장 흐름에 따라 살펴보고 변화점과 투자포인트를 점검해보시기 바랍니다.",
@@ -1128,7 +1148,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 57,
+      "id": 58,
       "videoId": "PwtokNXa99M",
       "title": "양자컴퓨터 진짜 상승이 시작된 이유(ft.가을바람월드)",
       "description": "#아이온큐 #양자컴퓨터 #투자 #기업 #CEO #젠슨황 #엔비디아\n촬영 날짜 : 2025.05.26\n\n00:00 하이라이트\n00:28 주가 40% 올라간 이유\n02:22 인수 기업\n03:05 구글 양자 컴퓨터\n04:01 양자 컴퓨터 방식 설명\n05:21 초전도 방식의 장단점\n06:17 이온트랩의 계산 정확도\n06:36 아이온큐 주가 \n08:17 양자컴퓨팅 기업 비교\n09:34 양자 섹터 전체 흐름\n10:58 젠슨황의 양자 시대 발언에 대한 생각\n12:15 CEO 교체 이유\n14:19 양자통신이 필요한 이유\n15:04 양자 컴퓨터 암호 체계\n15:46 양자 컴퓨터 비트코인 채굴\n16:18 양자 컴퓨터 발전시 변화\n18:19 양자컴퓨팅 투자 기업 소개\n21:30 CTO 대표 교체 이유\n24:01 양자 컴퓨터 투자 시 리스크\n25:15 양산시기\n26:06 아이온큐 보유 평가액\n27:20 아이온큐 목표가\n\n(도서링크) 📖 지금 당장 양자컴퓨터에 투자하라 📖\n교보문고: https://product.kyobobook.co.kr/detail/S000214649948\n예스24: https://www.yes24.com/product/goods/136370336\n\n2025 하반기 오프라인 특강 신청링크입니다. 선착순 마감입니다. \n(6/29 부산) https://bit.ly/4jOWxk1\n(7/5 서울) https://bit.ly/4cG3nG9\n(2025 정규강의 패키지)  : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com\n#트럼프 #미국  #투자 #코스피  #재테크 #주식 #미국주식 #나스닥 #금리 #경제 #전인구 #실적 #환율 #달러 #금",
@@ -1148,7 +1168,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 58,
+      "id": 59,
       "videoId": "Orv9LKMpAWs",
       "title": "코스피 상장 4개월만에 무너진 백종원 신화",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1168,7 +1188,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 59,
+      "id": 60,
       "videoId": "gOC9xNnFUR4",
       "title": "코스피상장 4개월만에 무너진 백종원 신화, 우연일까?",
       "description": "#코스피 #주식 #상장 #더본코리아 #빽햄 #백종원 #더본 #프차 \n(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1188,7 +1208,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 60,
+      "id": 61,
       "videoId": "6WaEufvRXig",
       "title": "블랙먼데이 충격, 미국 증시가 무너지고 있습니다",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1208,7 +1228,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 61,
+      "id": 62,
       "videoId": "Q_VvvbJkWkI",
       "title": "나스닥 폭락이유, 엔캐리 청산 3가지 요건이 완성됐습니다",
       "description": "#엔캐리 #청산 #조심 #미국주식 \n(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1228,7 +1248,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 62,
+      "id": 63,
       "videoId": "Yu56safp9I0",
       "title": "기습관세에 무너진 증시(ft.우리는 트럼프를 모른다)",
       "description": "#엔캐리 #청산 #조심 #미국주식 \n(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1248,7 +1268,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 63,
+      "id": 64,
       "videoId": "t5vJCBcrKho",
       "title": "아무도 모르는 나스닥 급등 이유(ft.젤렌스키, 트럼프)",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1268,7 +1288,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 64,
+      "id": 65,
       "videoId": "5mz4eFVf7TI",
       "title": "한국증시가 오른 이유",
       "description": "#코스피#코스닥#주식#투자#한화#두산#삼성\n(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1288,7 +1308,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 65,
+      "id": 66,
       "videoId": "MNkOwBIhRug",
       "title": "한국경제에 3가지 위기가 오고 있습니다",
       "description": "#삼각파도#경제위기#관세#인플레이션#AI#딥시크 #sk하이닉스 #최태원 #최창원 #트럼프 #HBM\n한국경제의 3가지 위기 : 삼각파도편 (관세, 인플레이션, AI)\n영상은 SK그룹의 지원금을 받아 제작되었습니다.",
@@ -1308,7 +1328,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 66,
+      "id": 67,
       "videoId": "7e2rPWrCxQQ",
       "title": "엔비디아, 딥시크 해결 못 하면 위험합니다!",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1328,7 +1348,7 @@
       "outcome": "SAME"
     },
     {
-      "id": 67,
+      "id": 68,
       "videoId": "W4_xxhw_8Bk",
       "title": "중국산AI에 무너지는 미국증시(ft.엔비디아, 딥시크)",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n* 광고/강연문의 : dodarimedia@naver.com",
@@ -1348,7 +1368,7 @@
       "outcome": "OPPOSITE"
     },
     {
-      "id": 68,
+      "id": 69,
       "videoId": "6K5SQbXRrNQ",
       "title": "양자컴퓨터 폭락, 고의적인 젠슨 황의 의도입니다",
       "description": "(신간도서) 전인구의 2025주식전망 더 강한 트럼프가 온다 \n교보문고 : https://product.kyobobook.co.kr/detail/S000215079782\n예스24 : https://www.yes24.com/Product/Goods/140839331\n(새해특강) 신간도서 싸인본 포함가\n1/18(서울) 트럼프 2025경제전망 특강 : https://bit.ly/40mD7MK\n1/12(부산) 트럼프 2025경제전망 특강 : https://bit.ly/3AAYxvk\n\n(정규강의) 천만원으로 1억만드는 2025년 주식투자 정규과정 : https://bit.ly/3ZS3YQC\n\n* 광고/강연문의 : dodarimedia@naver.com\n#아이온큐  #양자컴퓨터 #엔비디아  #ai",
