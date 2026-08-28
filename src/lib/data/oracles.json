@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-27T03:17:04.336Z",
+  "updatedAt": "2026-08-28T06:05:54.431Z",
   "source": {
     "channelId": "UCznImSIaxZR7fdLCICLdgaQ",
-    "videoCount": 880,
+    "videoCount": 884,
     "oracleCount": 69,
     "market": "Yahoo Finance daily chart"
   },
@@ -21,9 +21,9 @@
       "rationale": "제목·설명의 ‘실패, 하락’ 표현을 하락 전망으로 분류",
       "reviewStatus": "APPROVED",
       "sessionDate": "2026-08-26",
-      "open": 26099.576171875,
-      "close": 26130.197265625,
-      "marketReturn": 0.0011732410345803856,
+      "open": 26099.580078125,
+      "close": 26130.19921875,
+      "marketReturn": 0.0011731660254052922,
       "actual": "UP",
       "outcome": "OPPOSITE"
     },
