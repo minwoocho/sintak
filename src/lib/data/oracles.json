@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:23:11.077Z",
+  "updatedAt": "2026-11-07T01:53:44.328Z",
   "source": {
     "channelId": "UCznImSIaxZR7fdLCICLdgaQ",
     "videoCount": 944,
@@ -22,8 +22,8 @@
       "reviewStatus": "APPROVED",
       "sessionDate": "2026-11-06",
       "open": 5263.259765625,
-      "close": 5094.9599609375,
-      "marketReturn": -0.03197634397349847,
+      "close": 5059.68994140625,
+      "marketReturn": -0.03867751798007191,
       "actual": "DOWN",
       "outcome": "SAME"
     },
